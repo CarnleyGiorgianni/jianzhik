@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" fill="none" aria-label="Jianzhik">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#00e5ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="6" width="36" height="36" rx="8" fill="url(#bg)"/>
+  <path d="M9 17h18M9 23h12M9 29h18" stroke="#04111a" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="27" cy="23" r="2.2" fill="#04111a"/>
+  <text x="50" y="32" font-family="Space Grotesk, Inter, sans-serif" font-size="22" font-weight="700" fill="url(#tg)">Jianzhik</text>
+  <text x="50" y="44" font-family="JetBrains Mono, monospace" font-size="8" letter-spacing="3" fill="#6c7891">PROGRAMMATIC · PRIVACY · CRAFT</text>
+</svg>

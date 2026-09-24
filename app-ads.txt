@@ -1,0 +1,7 @@
+# app-ads.txt — Authorized Sellers for Apps
+# This file lists ad networks authorized to monetize inventory.
+# Update entries with your actual publisher IDs once AdMob / mediation accounts are live.
+# More info: https://iabtechlab.com/standards/app-ads-txt/
+
+# placeholder
+placeholder, none, DIRECT
